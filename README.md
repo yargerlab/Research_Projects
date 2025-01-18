@@ -1,2 +1,3 @@
-# Research_Projects
-Research Projects in the Yarger Research Group 
+# Yarger Lab Research Projects
+
+Folders for current research projects in the Yarger Research Group.
