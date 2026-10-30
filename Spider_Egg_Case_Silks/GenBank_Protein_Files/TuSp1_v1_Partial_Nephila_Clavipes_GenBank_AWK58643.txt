@@ -1,0 +1,20 @@
+https://www-ncbi-nlm-nih-gov.ezproxy1.lib.asu.edu/protein/AWK58643.1
+
+tubuliform spidroin 1 variant 1, partial [Trichonephila clavipes]
+GenBank: AWK58643.1
+
+LOCUS       AWK58643                 204 aa            linear   INV 17-MAY-2018
+DEFINITION  tubuliform spidroin 1 variant 1, partial [Trichonephila clavipes].
+ACCESSION   AWK58643
+VERSION     AWK58643.1
+
+TITLE     Genomic perspectives of spider silk genes through target capture
+            sequencing: Conservation of stabilization mechanisms and
+            homology-based structural models of spidroin terminal regions
+JOURNAL   Int. J. Biol. Macromol. 113, 829-840 (2018)
+PUBMED   29454054
+
+>AWK58643.1 tubuliform spidroin 1 variant 1, partial [Trichonephila clavipes]
+MVWLTSIAFIVTLLGAQYDIVTAQATSVFSSPSLASSFLGCLTNGIGQSPVFPSQEQLDLDDLAKVILSA
+VTSNTDSTTSARAQALSTALASSLADLLISESGGNSYQNQISALNNILSNCFVTTTGSNNPAFVSRVQTL
+IGVFSQSSSNAISGAISESAFAQSQAIQQAAAQSAAQAGSTSSTTTTTISAARSQAASQSASSS

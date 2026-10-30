@@ -1,0 +1,14 @@
+https://www-ncbi-nlm-nih-gov.ezproxy1.lib.asu.edu/protein/AAY28947.1
+
+tubuliform spidroin 1, partial [Latrodectus hesperus]
+GenBank: AAY28947.1
+
+LOCUS       AAY28947                 161 aa            linear   INV 26-JUL-2016
+DEFINITION  tubuliform spidroin 1, partial [Latrodectus hesperus].
+ACCESSION   AAY28947
+VERSION     AAY28947.1
+
+>AAY28947.1 tubuliform spidroin 1, partial [Latrodectus hesperus]
+FSSASSASAVGQVGYQIGLNAAQTLGISNAPAFADAVSQAVRTVGVGASPFQYANAVSNAFGQLLGGQGI
+LTQENAAGLASSVSSAISSAASSVAAQAASAAQSSAFAQSQAAAQAFSQAASRSASQSAAQAGSSSTSTT
+TTTSQAASQAASQSASSSXSA

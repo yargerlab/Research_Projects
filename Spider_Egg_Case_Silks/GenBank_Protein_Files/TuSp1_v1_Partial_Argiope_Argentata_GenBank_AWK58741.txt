@@ -1,0 +1,22 @@
+https://www-ncbi-nlm-nih-gov.ezproxy1.lib.asu.edu/protein/AWK58741.1
+
+tubuliform spidroin 1 variant 1, partial [Argiope argentata]
+GenBank: AWK58741.1
+
+LOCUS       AWK58741                 346 aa            linear   INV 17-MAY-2018
+DEFINITION  tubuliform spidroin 1 variant 1, partial [Argiope argentata].
+ACCESSION   AWK58741
+VERSION     AWK58741.1
+
+TITLE     Genomic perspectives of spider silk genes through target capture
+            sequencing: Conservation of stabilization mechanisms and
+            homology-based structural models of spidroin terminal regions
+JOURNAL   Int. J. Biol. Macromol. 113, 829-840 (2018)
+PUBMED   29454054
+
+>AWK58741.1 tubuliform spidroin 1 variant 1, partial [Argiope argentata]
+FASALSASAASVASSSAAQSASQSQAAASAFSRAASQSASQSAARSGAQSSSTTTTSSTSGSQAASQSAS
+SSASQASASSFAQASSASLAASSSFSSAFSSANTLSALGNVAYQLGFNVANTLGLGNAAGLGAALSQAVS
+SVGVGASSGTYANAVSNAVGQFLAGQGILNAANAASLATSFPNAVSSSALAAVSRVSSPSYGAFASVPKF
+IPADLDAGGISIGKPYAALSQFLPTNIQTALAPIASSSGLGSSAASDRVSSLANSLASAISSSGGSLSVP
+TFLNFLSSVGAQVSSSSSLNSSEVTNEVLLEAIAALLQVLNGAQITSVNLRNVPNAQQALVQALSG

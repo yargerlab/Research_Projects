@@ -1,0 +1,22 @@
+https://www-ncbi-nlm-nih-gov.ezproxy1.lib.asu.edu/protein/AWK58642.1
+
+tubuliform spidroin 1 variant 1, partial [Latrodectus hesperus]
+GenBank: AWK58642.1
+
+LOCUS       AWK58642                 301 aa            linear   INV 17-MAY-2018
+DEFINITION  tubuliform spidroin 1 variant 1, partial [Latrodectus hesperus].
+ACCESSION   AWK58642
+VERSION     AWK58642.1
+
+TITLE     Genomic perspectives of spider silk genes through target capture
+            sequencing: Conservation of stabilization mechanisms and
+            homology-based structural models of spidroin terminal regions
+JOURNAL   Int. J. Biol. Macromol. 113, 829-840 (2018)
+PUBMED   29454054
+
+>AWK58642.1 tubuliform spidroin 1 variant 1, partial [Latrodectus hesperus]
+MVWLTSTVLLASLLGTLGLPANSLSGVSASVNIFNSPNAATSFLNCLRSNIESSPAFPIQEQADLDSIAE
+VILSDVSSVNTASSATSLALSTALASSLAELLVTESAEEDIDNQVVALSTILSQCFVETTGSPNPAFVAS
+VKSLLGVLSQSASNYEFVETADESIAANVPGITTTGNFTPLNAIEQNFVSSLASSPSLARTFYSVSNADQ
+AANIAYNLGLNIAPSLGIPNSEALASSLRQAVASAGEGVNSSTYANLVSNTLGQFLSSQGILTQSNAASL
+ASTLASAISQSAAQSSAFAQS
