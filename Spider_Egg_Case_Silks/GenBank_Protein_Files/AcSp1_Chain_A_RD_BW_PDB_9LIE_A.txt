@@ -1,0 +1,27 @@
+https://www-ncbi-nlm-nih-gov.ezproxy1.lib.asu.edu/protein/9LIE_A
+
+Chain A, Aciniform spidroin 1
+PDB: 9LIE_A
+
+LOCUS       9LIE_A                   151 aa            linear   INV 14-JAN-2025
+DEFINITION  Chain A, Aciniform spidroin 1.
+ACCESSION   9LIE_A
+VERSION     9LIE_A
+DBSOURCE    pdb: molecule 9LIE, chain A, release Oct 1, 2025;
+            deposition: Jan 14, 2025;
+            class: STRUCTURAL PROTEIN;
+            source: Mmdb_id: 270666, Pdb_id 1: 9LIE;
+            Exp. method: X-ray Diffraction.
+SOURCE      Latrodectus hesperus (western black widow)
+
+TITLE     The self-assemble of aciniform spidroin (AcSp) from Latrodectus
+            hesperus
+JOURNAL   Unpublished
+JOURNAL   Submitted (14-JAN-2025)
+COMMENT     Repetitive domain (RP) 2 structure of aciniform spidroin from
+            Latrodectus hesperus.
+
+>pdb|9LIE|A Chain A, Aciniform spidroin 1
+GGDATAKLLQALVPALLKSDVFRAIYKRGTRKQVVQYVTNSALQQAASSLGLDASTISQLQTKATQALSS
+VSADSDSTAYAKAFGLAIAQVLGTSGQVNDANVNQIGAKLATGILRGSSAVAPRLGIDLSGINVDSDIGS
+VTSLILSGSTL

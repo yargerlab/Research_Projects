@@ -1,0 +1,25 @@
+https://www-ncbi-nlm-nih-gov.ezproxy1.lib.asu.edu/protein/2MAB_B
+
+Chain B, ACINIFORM SPIDROIN
+PDB: 2MAB_B
+
+LOCUS       2MAB_B                   109 aa            linear   INV 15-MAY-2024
+DEFINITION  Chain B, ACINIFORM SPIDROIN.
+ACCESSION   2MAB_B
+VERSION     2MAB_B
+DBSOURCE    pdb: molecule 2MAB, chain B, release May 15, 2024;
+            deposition: Jul 9, 2013;
+            class: STRUCTURAL PROTEIN;
+            source: Mmdb_id: 117902, Pdb_id 1: 2MAB;
+            Exp. method: Solution NMR.
+SOURCE      Trichonephila antipodiana
+
+TITLE     Structure and function of C-terminal domain of aciniform spidroin
+JOURNAL   Biomacromolecules 15 (2), 468-477 (2014)
+PUBMED   24422432
+COMMENT     Untangling the Solution Structure of C-Terminal Domain of Aciniform
+            Spidroin.
+
+>pdb|2MAB|B Chain B, ACINIFORM SPIDROIN
+PSFGLVLNSPNGLRSPQAKARINNLASALSTAVGRNGVDVNAFTSGLRATLSNLGDSGMSPNEAKVEVLL
+EALTAALQLLSSSTLGAVDTTSIGLTSNSVSKAVAQALA

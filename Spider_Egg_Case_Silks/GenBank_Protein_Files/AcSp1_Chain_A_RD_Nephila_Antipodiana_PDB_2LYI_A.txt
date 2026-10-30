@@ -1,0 +1,26 @@
+https://www-ncbi-nlm-nih-gov.ezproxy1.lib.asu.edu/protein/2LYI_A
+
+Chain A, PROTEIN (entity)
+PDB: 2LYI_A
+
+LOCUS       2LYI_A                   167 aa            linear   INV 15-MAY-2024
+DEFINITION  Chain A, PROTEIN (entity).
+ACCESSION   2LYI_A
+VERSION     2LYI_A
+DBSOURCE    pdb: molecule 2LYI, chain A, release May 15, 2024;
+            deposition: Sep 18, 2012;
+            class: STRUCTURAL PROTEIN;
+            source: Mmdb_id: 106574, Pdb_id 1: 2LYI;
+            Exp. method: Solution NMR.
+SOURCE      Trichonephila antipodiana
+
+TITLE     NMR structure note: repetitive domain of aciniform spidroin 1 from
+            Nephila antipodiana
+JOURNAL   J.Biomol.Nmr 54, 415 (2012)
+COMMENT     Repetitive domain (RP) of aciniform spidroin 1 from Nephila
+            antipodiana.
+
+>pdb|2LYI|A Chain A, PROTEIN (entity)
+MHHHHHHSGSLGDQLTSTLASALTKTNTLKAVSASKPSANVAVAIVTSGLKKALGALRINAGVSSQLTSA
+VSQAVANVRPGSSPAVYAKAIAAPSVQILVSSGSVNNNNAKQVASTLSENLVREMANTARRYRVNVPEAS
+VQADVSLVTSMTSTFVISSQTSVQMGG

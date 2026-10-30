@@ -1,0 +1,26 @@
+https://www-ncbi-nlm-nih-gov.ezproxy1.lib.asu.edu/protein/873090393
+
+Chain A, Aciniform spidroin 1
+PDB: 2MU3_A
+
+LOCUS       2MU3_A                   199 aa            linear   INV 15-MAY-2024
+DEFINITION  Chain A, Aciniform spidroin 1.
+ACCESSION   2MU3_A
+VERSION     2MU3_A
+
+DBSOURCE    pdb: molecule 2MU3, chain A, release May 15, 2024;
+            deposition: Sep 3, 2014;
+            class: STRUCTURAL PROTEIN;
+            source: Mmdb_id: 130643, Pdb_id 1: 2MU3;
+            Exp. method: Solution NMR.
+SOURCE      Argiope trifasciata
+
+TITLE     1H, 13C and 15N NMR assignments of the aciniform spidroin (AcSp1)
+            repetitive domain of Argiope trifasciata wrapping silk
+JOURNAL   Biomol NMR Assign 6 (2), 147-151 (2012)
+PUBMED   21989955
+
+>pdb|2MU3|A Chain A, Aciniform spidroin 1
+AGPQGGFGATGGASAGLISRVANALANTSTLRTVLRTGVSQQIASSVVQRAAQSLASTLGVDGNNLARFA
+VQAVSRLPAGSDTSAYAQAFSSALFNAGVLNASNIDTLGSRVLSALLNGVSSAAQGLGINVDSGSVQSDI
+SSSSSFLSTSSSSASYSQASASSTSGAGYTGPSGPSTGPSGYPGPLGGGAPFGQSGFGG

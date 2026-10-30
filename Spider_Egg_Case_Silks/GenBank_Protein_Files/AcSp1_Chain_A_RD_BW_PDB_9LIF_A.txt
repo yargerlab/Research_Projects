@@ -1,0 +1,27 @@
+https://www-ncbi-nlm-nih-gov.ezproxy1.lib.asu.edu/protein/9LIF_A
+
+Chain A, Aciniform spidroin 1
+PDB: 9LIF_A
+
+LOCUS       9LIF_A                   151 aa            linear   INV 14-JAN-2025
+DEFINITION  Chain A, Aciniform spidroin 1.
+ACCESSION   9LIF_A
+VERSION     9LIF_A
+DBSOURCE    pdb: molecule 9LIF, chain A, release Oct 1, 2025;
+            deposition: Jan 14, 2025;
+            class: STRUCTURAL PROTEIN;
+            source: Mmdb_id: 270667, Pdb_id 1: 9LIF;
+            Exp. method: X-ray Diffraction.
+SOURCE      Latrodectus hesperus (western black widow)
+
+TITLE     The self-assemble of aciniform spidroin (AcSp) from Latrodectus
+            hesperus
+JOURNAL   Unpublished
+JOURNAL   Submitted (14-JAN-2025)
+COMMENT     Repetitive domain (RP) 1 structure of aciniform spidroin from
+            Latrodectus hesperus.
+
+>pdb|9LIF|A Chain A, Aciniform spidroin 1
+GGDVAAKLARSLASTLASSGVFRAAFNSRVSTPVAVQLTDALVQKIASNLGLDYATASKLRKASQAVSKV
+RMGSDTNAYALAISSALAEVLSSSGKVADANINQIAPQLASGIVLGVSTTAPQFGVDLSSINVNLDISNV
+ARNMQASIQGG

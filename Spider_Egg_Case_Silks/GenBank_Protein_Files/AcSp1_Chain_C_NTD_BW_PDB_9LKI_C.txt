@@ -1,0 +1,27 @@
+https://www-ncbi-nlm-nih-gov.ezproxy1.lib.asu.edu/protein/9LKI_C
+
+Chain C, Aciniform spidroin 1
+PDB: 9LKI_C
+
+LOCUS       9LKI_C                   144 aa            linear   INV 25-NOV-2025
+DEFINITION  Chain C, Aciniform spidroin 1.
+ACCESSION   9LKI_C
+VERSION     9LKI_C
+DBSOURCE    pdb: molecule 9LKI, chain C, release Oct 1, 2025;
+            deposition: Jan 16, 2025;
+            class: STRUCTURAL PROTEIN;
+            source: Mmdb_id: 270669, Pdb_id 1: 9LKI;
+            Exp. method: X-ray Diffraction.
+SOURCE      Latrodectus hesperus (western black widow)
+
+TITLE     The self-assemble of N-terminal domain of aciniform spidroin 1
+            (AcSp1) from Latrodectus hesperus
+JOURNAL   Unpublished
+JOURNAL   Submitted (16-JAN-2025)
+COMMENT     N-terminal domain (NTD) structure of aciniform spidroin 1(AcSp1)
+            from Latrodectus hesperus.
+
+>pdb|9LKI|C Chain C, Aciniform spidroin 1
+GSSKSPWANPAKANAFMKCLIQKISTSPVFPQQEKEDMEEIVETMMSAFSSMSTSGGSNAAKLQAMNMAF
+ASSMAELVIAEDADNPDSISIKTEALAKSLQQCFKSTLGSVNRHFIAEIKDLIGMFAREAAAMEEAGDEE
+EETY
