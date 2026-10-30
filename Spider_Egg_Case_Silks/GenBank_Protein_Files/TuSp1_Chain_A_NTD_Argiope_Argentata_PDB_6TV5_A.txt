@@ -1,0 +1,26 @@
+https://www-ncbi-nlm-nih-gov.ezproxy1.lib.asu.edu/protein/6TV5_A
+
+Chain A, Tubuliform spidroin 1
+PDB: 6TV5_A
+
+LOCUS       6TV5_A                   137 aa            linear   INV 21-NOV-2024
+DEFINITION  Chain A, Tubuliform spidroin 1.
+ACCESSION   6TV5_A
+VERSION     6TV5_A
+DBSOURCE    pdb: molecule 6TV5, chain A, release Nov 20, 2024;
+            deposition: Jan 9, 2020;
+            class: STRUCTURAL PROTEIN;
+            source: Mmdb_id: 197892, Pdb_id 1: 6TV5;
+            Exp. method: Solution NMR.
+SOURCE      Argiope argentata
+
+TITLE     Solution Structure of Tubuliform Spidroin N-Terminal Domain and
+            Implications for pH Dependent Dimerization
+JOURNAL   Front Mol Biosci 9, 936887 (2022)
+PUBMED   35775078
+COMMENT     NMR structure of N-terminal domain from A. argentata tubuliform
+            spidroin (TuSp) at pH 5.5.
+
+>pdb|6TV5|A Chain A, Tubuliform spidroin 1
+GAVTAVPSVFSSPNLASGFLQCLTFGIGNSPAFPTQEQQDLDAIAQVILNAVSTNTGATASARAQALSTA
+LASSLTDLLIAESAESNYNNQLSELTGILSNCFIQTTGSDNPAFVSRIQSLISVLSQNTDVNIISTA

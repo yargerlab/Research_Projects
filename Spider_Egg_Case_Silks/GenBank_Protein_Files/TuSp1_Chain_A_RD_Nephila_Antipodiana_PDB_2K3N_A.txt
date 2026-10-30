@@ -1,0 +1,26 @@
+https://www-ncbi-nlm-nih-gov.ezproxy1.lib.asu.edu/protein/2K3N_A
+
+Chain A, TuSp1
+PDB: 2K3N_A
+
+LOCUS       2K3N_A                   160 aa            linear   INV 29-MAY-2024
+DEFINITION  Chain A, TuSp1.
+ACCESSION   2K3N_A
+VERSION     2K3N_A
+DBSOURCE    pdb: molecule 2K3N, chain A, release May 29, 2024;
+            deposition: May 14, 2008;
+            class: STRUCTURAL PROTEIN;
+            source: Mmdb_id: 72979, Pdb_id 1: 2K3N;
+            Exp. method: Solution NMR.
+KEYWORDS    .
+SOURCE      Trichonephila antipodiana
+
+TITLE     Solution structure of eggcase silk protein and its implications for
+            silk fiber formation
+JOURNAL   Proc Natl Acad Sci U S A 106 (22), 8906-8911 (2009)
+PUBMED   19458259
+
+>pdb|2K3N|A Chain A, TuSp1
+SGATSQAASQSASSSYSSAFAQAASSALATSSAISRAFASVSSASAASSLAYNIGLSAARSLGIASDTAL
+AGALAQAVGGVGAGASASAYANAIARAAGQFLATQGVLNAGNASALAGSFARALSASAESQSFAQSQAYQ
+QASAFQQAAAQSAAQSASRA

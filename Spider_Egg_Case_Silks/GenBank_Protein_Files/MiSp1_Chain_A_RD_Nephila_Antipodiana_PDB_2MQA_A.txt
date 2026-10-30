@@ -1,0 +1,25 @@
+https://www-ncbi-nlm-nih-gov.ezproxy1.lib.asu.edu/protein/2MQA_A
+
+Chain A, Minor ampullate fibroin 1
+PDB: 2MQA_A
+
+LOCUS       2MQA_A                   148 aa            linear   INV 15-MAY-2024
+DEFINITION  Chain A, Minor ampullate fibroin 1.
+ACCESSION   2MQA_A
+VERSION     2MQA_A
+DBSOURCE    pdb: molecule 2MQA, chain A, release May 15, 2024;
+            deposition: Jun 16, 2014;
+            class: STRUCTURAL PROTEIN;
+            source: Mmdb_id: 130025, Pdb_id 1: 2MQA;
+            Exp. method: Solution NMR.
+SOURCE      Trichonephila antipodiana
+
+TITLE     3D structure of RP domain of MiSp
+JOURNAL   Unpublished
+JOURNAL   Submitted (16-JUN-2014)
+COMMENT     3D structure of RP domain of MiSp.
+
+>pdb|2MQA|A Chain A, Minor ampullate fibroin 1
+MHHHHHHSSGLVPRGSGNAFAQSLSSNLLSSGDFVQMISSTTSTDQAVSVATSVAQNVGNQLGLDANAMN
+SLLGAVSGYVSTLGNAISDASAYANAISSAIGNVLANSGSISESTASSAASSAASSVTTTLTSYGPAVFY
+APTSSAGG
