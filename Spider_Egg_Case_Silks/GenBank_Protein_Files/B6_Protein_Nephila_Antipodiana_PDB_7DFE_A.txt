@@ -1,0 +1,27 @@
+https://www-ncbi-nlm-nih-gov.ezproxy1.lib.asu.edu/protein/7DFE_A
+
+Chain A, B6 protein
+PDB: 7DFE_A
+
+LOCUS       7DFE_A                   142 aa            linear   INV 15-MAY-2024
+DEFINITION  Chain A, B6 protein.
+ACCESSION   7DFE_A
+VERSION     7DFE_A
+DBSOURCE    pdb: molecule 7DFE, chain A, release May 15, 2024;
+            deposition: Nov 7, 2020;
+            class: PROTEIN FIBRIL;
+            source: Mmdb_id: 208847, Pdb_id 1: 7DFE;
+            Exp. method: Solution NMR.
+KEYWORDS    .
+SOURCE      Trichonephila antipodiana
+
+TITLE     Critical role of minor eggcase silk component in promoting spidroin
+            chain alignment and strong fiber formation
+JOURNAL   Proc Natl Acad Sci U S A 118 (38) (2021)
+PUBMED   34531321
+
+>pdb|7DFE|A Chain A, B6 protein
+NLSIGDTTSIIQLFKNFTGPPSVATFISNFHSIVQSSKTLLNLFDVAEENPLEFAKCMYELVLKSANSLG
+VLNPHLIANNIYQSVVSNLDILHSSAMVNLYANAMAGSLFLEGILNSDNAATLAKKCANDMEAFAKKMVE
+IG
+   

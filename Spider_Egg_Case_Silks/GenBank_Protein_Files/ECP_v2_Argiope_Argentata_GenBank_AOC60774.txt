@@ -1,0 +1,20 @@
+https://www-ncbi-nlm-nih-gov.ezproxy1.lib.asu.edu/protein/AOC60774.1
+
+egg case protein variant 2, partial [Argiope argentata]
+GenBank: AOC60774.1
+
+LOCUS       AOC60774                 256 aa            linear   INV 20-AUG-2016
+DEFINITION  egg case protein variant 2, partial [Argiope argentata].
+ACCESSION   AOC60774
+VERSION     AOC60774.1
+
+TITLE     Candidate egg case silk genes for the spider Argiope argentata from
+            differential gene expression analyses
+JOURNAL   Insect Mol. Biol. (2016) In press
+PUBMED   27500384
+
+>AOC60774.1 egg case protein variant 2, partial [Argiope argentata]
+MHWKISKMLGPILFITISLSLGVNGFLISIPGRNCEDKCLVDCQDAECNVTYFAQLNPCSYSCIVNGQYN
+YYTEPDFQSCGTDKVCYQGQCLLSDSTYECRNIYGEDYISVENPGNPCTYLCIPMSGCGGVYSENIHNGC
+RCVVGNTLGRCRSGFCISNRRYLDPYYSLDSYPEGGPSSIGATAENAATNRGYVSFPEIVAISNGLTITP
+SGTPSGSADGVAVGSAIVDRRDSVASSGVGAAGATSDKISGAGGVR
